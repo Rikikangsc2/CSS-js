@@ -1,0 +1,46 @@
+/* Style untuk judul halaman */
+h1 {
+  font-size: 3rem;
+  color: #008080;
+  text-align: center;
+}
+
+/* Style untuk teks paragraf */
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  margin-bottom: 1.5rem;
+}
+
+/* Style untuk subjudul */
+h2 {
+  font-size: 2rem;
+  color: #008080;
+}
+
+/* Style untuk daftar */
+ol {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  margin-left: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Style untuk tautan */
+a {
+  color: #008080;
+  text-decoration: none;
+  border-bottom: 1px solid #008080;
+  transition: border-bottom 0.2s ease-in-out;
+}
+
+a:hover {
+  border-bottom: 1px solid transparent;
+}
+
+/* Style untuk latar belakang halaman */
+body {
+  background-color: #f2f2f2;
+}
